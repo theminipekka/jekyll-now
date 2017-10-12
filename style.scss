@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background: linear-gradient(to bottom, #ffcccc 0%, #ff99cc 100%);
+};
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $green;
 }
 
 .container {
