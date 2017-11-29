@@ -20,15 +20,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had previously programmed the rocket</td>
+    <td>  I had previously programmed the rocket</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Attempt to fully program the bullet coming out of the rockets</td>
+    <td>  Attempt to fully program the bullet coming out of the rockets</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, I did program the bullet</td>
+    <td>  Yes, I did program the bullet</td>
   </tr>
 </table>
 
