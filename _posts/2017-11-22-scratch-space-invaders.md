@@ -8,9 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
     <td>Scratch space invaders</td>
-    <td>Date</td>
     <td>22/11/17</td>
   </tr>
 </table>
