@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Scratch space invaders</td>
+    <td>Scratch Space Invaders</td>
     <td>22/11/17</td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to listen to mr keen more</td>
+    <td>I need to listen to Mr Keen more</td>
     <td></td>
   </tr>
 </table>
