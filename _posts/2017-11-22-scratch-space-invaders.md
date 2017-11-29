@@ -1,8 +1,8 @@
 ---
-title: scratch space invaders
+title: Scratch Space Invaders
 layout: post
 author: ehsan.rehman
-permalink: /scratch-space-invaders/
+permalink: /Scratch-Space-Invaders/
 source-id: 1GASfB0dciORaLKuPGX5Himmaz288v3vLS5CNUwkQIfY
 published: true
 ---
