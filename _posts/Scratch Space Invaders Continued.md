@@ -1,6 +1,6 @@
 ---
-title: scratch space invaders continued
-layout: post
+title: Scratch Space Invaders Continued
+layout: blog tracker
 author: ehsan.rehman
 permalink: /scratch-space-invaders-continued/
 source-id: 1HYe9HH9Q6CaNVBe0UERM0M3q32IOXTFCkq_uElzo8BU
