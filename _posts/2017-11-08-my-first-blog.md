@@ -1,8 +1,8 @@
 ---
-title: my first blog
+title: My First Blog
 layout: post
 author: ehsan.rehman
-permalink: /my-first-blog/
+permalink: /My-First-Blog/
 source-id: 1rATdBDmip0MApYML2qYBCE-9YHMUQn7N_R6R9_nDRuA
 published: true
 ---
