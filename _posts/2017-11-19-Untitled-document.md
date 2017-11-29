@@ -2,7 +2,7 @@
 title: Untitled document
 layout: post
 author: ehsan.rehman
-permalink: /untitled-document/
+permalink: /Retro Games/
 source-id: 17Xu71JZvddAccf16v8LRGEEHlT2hQL5ac3Aoeg2DOJo
 published: true
 ---
