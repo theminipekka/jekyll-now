@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>scratch space invaders continued</td>
+    <td>Scratch Space Invaders Continued</td>
     <td>Date</td>
     <td>29/11/17</td>
   </tr>
