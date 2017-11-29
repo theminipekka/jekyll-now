@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Retro Games
 layout: post
 author: ehsan.rehman
 permalink: /Retro Games/
