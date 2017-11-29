@@ -1,5 +1,5 @@
 ---
-title: scratch space invaders continued
+title: Scratch Space Invaders Continued
 layout: post
 author: ehsan.rehman
 permalink: /scratch-space-invaders-continued/
