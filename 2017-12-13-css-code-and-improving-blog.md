@@ -1,6 +1,6 @@
 ---
 title: css code and improving blog
-layout: post
+layout: posts
 author: ehsan.rehman
 permalink: /css-code-and-improving-blog/
 source-id: 1ZH5i2n2GpwVNb5Y3QVJbenujsNOehTMG9qUbTHjObo4
