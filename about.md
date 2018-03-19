@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+i know the way
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+i like football. I like man united. I like dead memes (alia's life)
 
 ### Contact me
 
